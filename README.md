@@ -2,3 +2,4 @@
 
 Assets:
 - https://assetstore.unity.com/packages/3d/environments/fantasy/fantasy-worlds-forest-free-stylized-forest-environment-open-worl-282610
+- https://assetstore.unity.com/packages/vfx/shaders/world-space-fading-transitions-98207
