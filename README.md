@@ -99,19 +99,6 @@ A relação entre humanos e alienígenas será abordada no jogo, mas de uma form
 
 **Resumo:** Um garoto chamado Elliott encontra um alienígena perdido na Terra e tenta ajudá-lo a voltar para casa. Enquanto desenvolvem uma forte amizade, eles precisam fugir do governo, que deseja capturar o extraterrestre para experimentos científicos.
 
----
-
-## **Assets**
-
-Os assets utilizados no jogo incluem:
-
-- ### **Modelos 3D:** Edifícios em ruínas, veículos destruídos, personagens e criaturas.
- 
-- ### **Texturas:** Superfícies realistas de concreto, metal enferrujado, sujeira e cinzas.
-
--  ### **Efeitos Visuais:** Iluminação volumétrica, fumaça, explosões e partículas atmosféricas.
-
-- ### **Animações:** Movimentos do personagem principal, alienígena e NPCs.
 
 ## **Músicas e Áudio**
 
